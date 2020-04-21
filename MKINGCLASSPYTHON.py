@@ -47,7 +47,7 @@ class Circle:
         return (2*3.14*self.rad)
 c1=Circle()
 print("The Area Of circle is" ,c1.areac())
-print("The Perimeter of rect is" , c1.perr())
+print("The Perimeter of Circle is" , c1.perr())
 
 class Circle2:
     rad=0.0
@@ -59,7 +59,7 @@ class Circle2:
         return (2*3.14*self.rad)
 c2=Circle2()
 print("The Area Of circle is" ,c2.areac())
-print("The Perimeter of rect is" , c2.perr())
+print("The Circumference of circle is" , c2.circum())
 
 class Temp:
     f=0.0
