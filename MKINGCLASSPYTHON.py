@@ -1,5 +1,5 @@
-print("""HIMANSHU SINHA
-ROLL NO -2K18CSUN01064
+print("""Mukul Vashist
+ROLL NO -2K18CSUN01027
 CLASS -B-TECH CSE 4A""")
 class Triangle:
     a=0
